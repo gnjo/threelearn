@@ -1,4 +1,6 @@
-		var params = {
+# dat.gui.js usage
+```
+  var params = {
 
 				clearPass: true,
 				clearColor: 'white',
@@ -37,4 +39,4 @@
 				gui.open();
 
 			}
-      
+ ```  
