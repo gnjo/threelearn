@@ -1,5 +1,7 @@
 # dat.gui.js usage
 ```
+//pug
+//script(src="https://gnjo.github.io/threelearn/dat.gui.js")
   var params = {
 
 				clearPass: true,
